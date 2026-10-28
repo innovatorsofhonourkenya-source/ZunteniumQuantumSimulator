@@ -1,3 +1,4 @@
+<img width="1680" height="768" alt="zuntenium-login-logo-Cf8ObP4o" src="https://github.com/user-attachments/assets/b6ac28c0-85f2-43d7-8148-967a83b284d9" />
 <p align="center">
   <img src="docs/assets/quflow-logo.png" alt="QuFlow Logo" width="480" />
 </p>
